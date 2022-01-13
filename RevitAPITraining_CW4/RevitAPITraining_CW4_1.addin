@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPITraining_CW4_1.dll"</Assembly>
+		<AddInId>13D0CB9B-E550-4D52-81F1-24F4DCE48EE2</AddInId>
+		<FullClassName>RevitAPITraining_CW4_1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>4.1 Запись данных в текстовый файл</Text>
+	</AddIn>
+</RevitAddIns>

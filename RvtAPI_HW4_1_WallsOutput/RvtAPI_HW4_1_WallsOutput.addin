@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RvtAPI_HW4_1_WallsOutput.dll"</Assembly>
+		<AddInId>D5879BCA-E913-42FC-8B55-45EB258176B4</AddInId>
+		<FullClassName>RvtAPI_HW4_1_WallsOutput.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>HW_4.1 Вывод значений_Стены</Text>
+	</AddIn>
+</RevitAddIns>

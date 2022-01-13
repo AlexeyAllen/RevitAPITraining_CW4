@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPITraining_CW4_3.dll"</Assembly>
+		<AddInId>1E417E2F-839F-41C1-91F9-0B8B2141A3E6</AddInId>
+		<FullClassName>RevitAPITraining_CW4_3.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>4.3 Чтение данных из текстового файла</Text>
+	</AddIn>
+</RevitAddIns>

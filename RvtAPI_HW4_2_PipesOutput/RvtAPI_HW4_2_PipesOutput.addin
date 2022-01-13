@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RvtAPI_HW4_2_PipesOutput.dll"</Assembly>
+		<AddInId>C9867EEF-88CE-42AD-9A43-637EBA6D8748</AddInId>
+		<FullClassName>RvtAPI_HW4_2_PipesOutput.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>HW_4.2 Вывод значений труб</Text>
+	</AddIn>
+</RevitAddIns>

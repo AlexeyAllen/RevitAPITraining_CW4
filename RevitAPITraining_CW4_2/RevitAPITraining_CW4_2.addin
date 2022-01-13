@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPITraining_CW4_2.dll"</Assembly>
+		<AddInId>4FE5E8D4-D000-4DD7-8300-FADA14836F8F</AddInId>
+		<FullClassName>RevitAPITraining_CW4_2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>4.2 Запрос пути сохранения файла</Text>
+	</AddIn>
+</RevitAddIns>

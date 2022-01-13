@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPITraining_CW4_8.dll"</Assembly>
+		<AddInId>23931A1A-D7F5-4A32-BFC1-93387DFE7DA0</AddInId>
+		<FullClassName>RevitAPITraining_CW4_8.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>4.8 Чтение данных из файла JSON</Text>
+	</AddIn>
+</RevitAddIns>
